@@ -2,6 +2,7 @@
 title: Jonathan Stowell's Blog
 
 description: > # this means to ignore newlines until "baseurl:"
+  Developer/Architect based in Bristol, UK. Work includes architecting solutions for FundsLibrary and more recently Bud an apprenticeship management platform. All views are my own.
 baseurl: "" # the subpath of your site, e.g. /blog/
 url: "" # the base hostname & protocol for your site
 linkedin_username: jonathanstowell
