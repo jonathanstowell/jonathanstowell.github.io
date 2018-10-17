@@ -15,6 +15,7 @@
                id="js-search__input" />
       </div>
 
+      {% if site.more_vert %}
       <button class="mdl-button mdl-js-button mdl-button--icon" id="fixed-menu-lower-left">
         <i class="material-icons">more_vert</i>
       </button>
@@ -24,7 +25,7 @@
         <li><a href="{{ option[1].link }}" class="mdl-menu__item">{{ option[1].name }}</a></li>
         {% endfor %}
       </ul>
-
+      {% endif %}
     </div>
   </div>
 </header>
