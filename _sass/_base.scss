@@ -78,3 +78,12 @@ pre {
         }
     }
 }
+
+/**
+ * Code formatting
+ */
+ a.no-styling {
+    color: rgb(255,255,255);
+    text-decoration: none; /* no underline */
+    font-weight: 400;
+ }
