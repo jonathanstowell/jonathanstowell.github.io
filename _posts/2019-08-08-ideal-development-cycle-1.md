@@ -10,7 +10,7 @@ Most features start with an idea... "my industry knowledge makes me feel this wo
 
 ## The Pipeline
 
-Concept -> High Level Refinement -> High Level Estimate -> User Stories -> Refinement -> What makes this a success? -> Backlog -> Prioritisation -> Sprint Planning -> Sprint Cycle -> Deployment -> Demo -> Monitoring Success Metrics -> Done || Why isn't this a Success -> User Feedback -> Decision (Rework || Remove) 
+![Concept Pipeline](/img/concept_lifecycle.png)
 
 ## The Concept
 
