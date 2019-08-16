@@ -12,11 +12,11 @@ Most features start with an idea... "my industry knowledge makes me feel this wo
 
 ![Concept Pipeline](/img/concept_lifecycle.png)
 
-## The Concept
+## The Concept / High Level Refinement
 
 How many engineers have experienced a meeting where an initial idea for a feature or more likely an epic is proposed... then within 30 seconds are being asked how long it would take to build? It tends to be a difficult question to answer at such an early stage, specially without the details.
 
-This is why this high level concept should be handed over to an analyst, to take away, debate with peers and dissect into blocks which add more detail. Now armed with this detail we can go back to the stakeholders and talk through the concept in more detail. 
+This is why this high level concept should be handed over to an analyst, to take away, debate with peers and dissect into blocks which add more detail. Now armed with this, we can go back to the stakeholders and talk through the concept in more detail. 
 
 This gives the stakeholders an opportunity at a very early stage to correct, refine or even throw out the assumptions that have been made so far. Also, as we have more detail it leads to a more in depth discussion around the concept and all parties leave the session with a greater understanding of what needs to be built. It may potentially be useful to repeat this cycle a number of times depending on how all the parties feel at the end of the session.
 
@@ -26,7 +26,9 @@ At this point in the process, it's fair to say not everyone needs to be involved
 
 With enough detail around the concept it's time to get the wider team involved with providing an estimate. Some companies tend to run a process where an individual is responsible for estimates, most likely a Development Manager or a Lead Developer. 
 
-However, I tend to find that if you want buy in from the team and the individuals who are going to be delivering the feature, it makes sense to work as a team to provide a sensible HLE. I've found that an individual or someone who is being told "it has to be done in x" that sets unrealistic delivery timetables, will not tend to hold the respect of the team, they will not have any buy-in to the delivery nor be willing to stretch to deliver. They will try to deliver but ultimately know its a unrealistic deadline... so why would they go above and beyond to deliver? Empowering the team gives them buy-in, it gives them power and it gives them attachment to what they're working on. This ultimately in my eyes leads to motivation.
+However, I tend to find that if you want buy in from the team and the individuals who are going to be delivering the feature, it makes sense to work as a team to provide a sensible HLE. I've found that an individual or someone who is being told "it has to be done in x" and that sets unrealistic delivery timetables, will not tend to hold the respect of the team, they will not have any buy-in to the delivery nor be willing to stretch to deliver. They will try to deliver but ultimately know its a unrealistic deadline... so why would they go above and beyond to deliver? Empowering the team gives them buy-in, it gives them power and it gives them attachment to what they're working on. This ultimately in my eyes leads to motivation.
+
+I should also note here that it may not be the Development Manager or Lead Developers fault for setting unrealistic deadlines. This could be coming down from the level above them and whilst they may try and push back... depending on the company culture they may not be successful and ultimately just have to say yes, fully in the knowledge that they are not likely to meet the deadline. However, in their capactiy as a professional they have tried to advise the business, but that advise has not been accepted.
 
 The great thing about doing this with the team so early on, before starting to get into user stories and other things that come later in the pipeline, is that it starts to get them thinking about what maybe coming up in the not so distant future. They might pop to make a coffee, have a 5 minute think about the problem whilst staring blindly at the kettle to boil, that might lead to some great ideas no one else has had!
 
@@ -43,11 +45,11 @@ It might even be sensible to create a business case around this, what do we see 
 
 Phased concept deliverables can be a nice way of taking less risk on a concept investment as it allows for validation before making further investments in the later phases.
 
-I've found at many places I've worked decisions on concepts/features can be made on opinion, gut feel, what would be cool etc etc and are not viewed as investments. I tend to feel this is due to employees time not being treated as a real cost. However, and this shouldn't be a surprise, it is! Every minute, hour, day, months an individual or a team spends working on a concept is a financial cost... 
+I've found at many places I've worked, decisions on concepts/features can be made on opinion, gut feel, what would be cool etc etc and are not viewed as investments. I tend to feel this is due to employees time not being treated as a real cost. However, and this shouldn't be a surprise, it is! Every minute, hour, day, months an individual or a team spends working on a concept is a financial cost... 
 
 When we think about finance most investors are looking for the best return for the funds they have available, why would they put money in something that returns 3% if they've got a juicy 6% return elsewhere! 
 
-Why aren't we thinking in the same terminology for software?
+Why aren't we thinking in the same terminology for software? There are going to be lots of reasons for this. I've found that people can get quite wrapped up in a vision/dream for a product, everything that it could be... that decision making can become influenced by this attachment and you end up in a "build it and they'll come" scenario. Hopefully we can start to avoid this by defining success and measuring against it. Surely dreamers can't argue against cold hard statistics that their great concept/feature isn't being used and needs to be reworked accourding to feedback? The quicker we can pinpoint whether a concept/feature is or is not going to be a success, the quicker we can move on to something else, hopefully maximising the use of time to deliver more value.
 
 Back to the point of the HLE. It's there to allow the business/stakeholders to make an informed decision, now they have more detail and time, as to whether this is still the right thing to do right now. Could we be working on something else that has a better return?
 
